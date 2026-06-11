@@ -16,48 +16,42 @@ Semester/Academic Year: Sem 2, Year 3
 GitHub Link: https://github.com/ANNIE-455/Sweet-Cake-Shop
 
 
-
 BIT3208_Project/
-│
 ├── Week1/
-│   ├── XAMPP Installation Screenshots
-│   ├── Apache and MySQL Testing Files
+│   ├── XAMPP Installation Screenshots/
+│   ├── Apache and MySQL Testing Files/
 │   ├── test.php
 │   └── Week1db.sql
-│
 ├── Week2/
 │   ├── index.html
 │   ├── style.css
 │   ├── auth.php
 │   ├── Images/
 │   └── Week2db.sql
-│
 ├── Week3/
 │   ├── index.js
-│   ├── Password Strength Checker Implementation
-│   ├── Form Validation Scripts
+│   ├── Password Strength Checker Implementation/
+│   ├── Form Validation Scripts/
 │   └── Week3db.sql
-│
 ├── Week4/
-│   ├── PHP Authentication
-│   ├── User Registration Module
-│   ├── User Login Module
-│   ├── Password Hashing Implementation
+│   ├── PHP Authentication/
+│   ├── User Registration Module/
+│   ├── User Login Module/
+│   ├── Password Hashing Implementation/
 │   └── Week4db.sql
-│
 ├── Week5/
-│   ├── Create Operations
-│   ├── Read Operations
-│   ├── Update Operations
-│   ├── Delete Operations
-│   ├── CRUD Screenshots
+│   ├── Create Operations/
+│   ├── Read Operations/
+│   ├── Update Operations/
+│   ├── Delete Operations/
+│   ├── CRUD Screenshots/
 │   └── Week5db.sql
-│
 └── Documentation/
-├── README.md
-├── System Design.pdf
-├── Screenshots/
-└── Database Schema.pdf
+    ├── README.md
+    ├── System Design.pdf
+    └── Screenshots/
+        └── Database Schema.pdf
+
 
 # Sweet Cake Shop Management System
 
